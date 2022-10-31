@@ -2,4 +2,14 @@
 Console.WriteLine("DSA-Sheet");
 
 
-Prac.DrivingCode();
+//Prac.DrivingCode();
+
+//MergeSort.DrivingCode();
+
+//MergePrac.DrivingCode();
+
+//BinarySearch.DrivingCode();
+
+//QuickSort.DrivingCode();
+
+QuickSortPrac.DrivingCode();
