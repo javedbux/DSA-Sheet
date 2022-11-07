@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA-Sheet/PracSort/bin/Debug/net6.0/PracSort
+/home/javedbux/DSA/DSA-Sheet/PracSort/bin/Debug/net6.0/PracSort.deps.json
+/home/javedbux/DSA/DSA-Sheet/PracSort/bin/Debug/net6.0/PracSort.runtimeconfig.json
+/home/javedbux/DSA/DSA-Sheet/PracSort/bin/Debug/net6.0/PracSort.dll
+/home/javedbux/DSA/DSA-Sheet/PracSort/bin/Debug/net6.0/ref/PracSort.dll
+/home/javedbux/DSA/DSA-Sheet/PracSort/bin/Debug/net6.0/PracSort.pdb
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.AssemblyInfo.cs
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.dll
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/ref/PracSort.dll
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.pdb
+/home/javedbux/DSA/DSA-Sheet/PracSort/obj/Debug/net6.0/PracSort.genruntimeconfig.cache

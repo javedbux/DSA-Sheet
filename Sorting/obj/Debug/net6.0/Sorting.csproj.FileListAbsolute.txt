@@ -1,0 +1,15 @@
+/home/javedbux/DSA/DSA-Sheet/Sorting/bin/Debug/net6.0/Sorting
+/home/javedbux/DSA/DSA-Sheet/Sorting/bin/Debug/net6.0/Sorting.deps.json
+/home/javedbux/DSA/DSA-Sheet/Sorting/bin/Debug/net6.0/Sorting.runtimeconfig.json
+/home/javedbux/DSA/DSA-Sheet/Sorting/bin/Debug/net6.0/Sorting.dll
+/home/javedbux/DSA/DSA-Sheet/Sorting/bin/Debug/net6.0/ref/Sorting.dll
+/home/javedbux/DSA/DSA-Sheet/Sorting/bin/Debug/net6.0/Sorting.pdb
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.csproj.AssemblyReference.cache
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.AssemblyInfoInputs.cache
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.AssemblyInfo.cs
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.csproj.CoreCompileInputs.cache
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.dll
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/ref/Sorting.dll
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.pdb
+/home/javedbux/DSA/DSA-Sheet/Sorting/obj/Debug/net6.0/Sorting.genruntimeconfig.cache
